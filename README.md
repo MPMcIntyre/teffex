@@ -1,2 +1,1 @@
-# teffex
-Stateful React text effects
+Plaseholder project

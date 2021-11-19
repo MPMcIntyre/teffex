@@ -1,0 +1,10 @@
+{
+  "name": "teffex",
+  "version": "1.0.0",
+  "description": "Text Effects: Stateful text effects for amazing websites",
+  "main": ".lib/Effects.js",
+  "repository": "https://github.com/MPMcIntyre/teffex",
+  "author": "M. McIntyre",
+  "license": "MIT",
+  "private": false
+}
